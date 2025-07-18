@@ -4,3 +4,6 @@
 	•	Designed interactive dashboards with dynamic slicers and visualizations (line and column charts) to enable stakeholders to explore monthly transaction amounts and balances for 2024, supporting filters by city, bank, device, gender, payment method, and currency (INR, USD, EUR, GBP).
  
 	•	Implemented sophisticated features such as synchronized slicers, custom calculated columns, conditional formatting, and bookmarks—delivering user-friendly navigation and actionable business intelligence for data-driven decision-making.
+
+screenshot :- https://github.com/tilokanikomal27/UPI-Transcation-dashboard/blob/main/page1%20screenshot.png
+screenshot2 :-
