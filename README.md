@@ -6,4 +6,4 @@
 	•	Implemented sophisticated features such as synchronized slicers, custom calculated columns, conditional formatting, and bookmarks—delivering user-friendly navigation and actionable business intelligence for data-driven decision-making.
 
 screenshot :- https://github.com/tilokanikomal27/UPI-Transcation-dashboard/blob/main/page1%20screenshot.png
-screenshot2 :-
+screenshot2 :- https://github.com/tilokanikomal27/UPI-Transcation-dashboard/blob/main/page2.png
